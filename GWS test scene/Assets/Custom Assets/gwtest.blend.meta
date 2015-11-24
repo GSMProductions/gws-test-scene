@@ -8,17 +8,23 @@ ModelImporter:
     100000: Archway
     100002: //RootNode
     100004: Hallway
+    100006: Hallway_001
     400000: Archway
     400002: //RootNode
     400004: Hallway
+    400006: Hallway_001
     2300000: Archway
     2300002: Hallway
+    2300004: Hallway_001
     3300000: Archway
     3300002: Hallway
+    3300004: Hallway_001
     4300000: Archway
     4300002: Hallway
+    4300004: Hallway_001
     6400000: Archway
     6400002: Hallway
+    6400004: Hallway_001
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -30,6 +36,10 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
@@ -73,8 +83,10 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
+    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
+  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 4c61da049e1d6e14f993534ed7b6248d
+timeCreated: 1441049615
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Baseboard
+    100002: Baseboard.001
+    100004: Camera
+    100006: CTRL_Baseboard
+    100008: CTRL_Baseboard.001
+    100010: CTRL_Hole
+    100012: CTRL_Hole.001
+    100014: CTRL_Hole.002
+    100016: Door
+    100018: Door.001
+    100020: Door_Group
+    100022: Door_Group.001
+    100024: DoorFrame
+    100026: DoorFrame.001
+    100028: Floor
+    100030: Floor.001
+    100032: Handle_Back
+    100034: Handle_Back.001
+    100036: Handle_Front
+    100038: Handle_Front.001
+    100040: Room
+    100042: Room.001
+    100044: //RootNode
+    100046: Window
+    100048: Window_Group
+    400000: Baseboard
+    400002: Baseboard.001
+    400004: Camera
+    400006: CTRL_Baseboard
+    400008: CTRL_Baseboard.001
+    400010: CTRL_Hole
+    400012: CTRL_Hole.001
+    400014: CTRL_Hole.002
+    400016: Door
+    400018: Door.001
+    400020: Door_Group
+    400022: Door_Group.001
+    400024: DoorFrame
+    400026: DoorFrame.001
+    400028: Floor
+    400030: Floor.001
+    400032: Handle_Back
+    400034: Handle_Back.001
+    400036: Handle_Front
+    400038: Handle_Front.001
+    400040: Room
+    400042: Room.001
+    400044: //RootNode
+    400046: Window
+    400048: Window_Group
+    2300000: Baseboard
+    2300002: Baseboard.001
+    2300004: CTRL_Baseboard
+    2300006: CTRL_Baseboard.001
+    2300008: CTRL_Hole
+    2300010: CTRL_Hole.001
+    2300012: CTRL_Hole.002
+    2300014: Door
+    2300016: Door.001
+    2300018: DoorFrame
+    2300020: DoorFrame.001
+    2300022: Floor
+    2300024: Floor.001
+    2300026: Handle_Back
+    2300028: Handle_Back.001
+    2300030: Handle_Front
+    2300032: Handle_Front.001
+    2300034: Room
+    2300036: Room.001
+    2300038: Window
+    3300000: Baseboard
+    3300002: Baseboard.001
+    3300004: CTRL_Baseboard
+    3300006: CTRL_Baseboard.001
+    3300008: CTRL_Hole
+    3300010: CTRL_Hole.001
+    3300012: CTRL_Hole.002
+    3300014: Door
+    3300016: Door.001
+    3300018: DoorFrame
+    3300020: DoorFrame.001
+    3300022: Floor
+    3300024: Floor.001
+    3300026: Handle_Back
+    3300028: Handle_Back.001
+    3300030: Handle_Front
+    3300032: Handle_Front.001
+    3300034: Room
+    3300036: Room.001
+    3300038: Window
+    4300000: Room.001
+    4300002: CTRL_Baseboard.001
+    4300004: CTRL_Hole.002
+    4300006: DoorFrame.001
+    4300008: Door.001
+    4300010: Handle_Back.001
+    4300012: Handle_Front.001
+    4300014: CTRL_Baseboard
+    4300016: CTRL_Hole
+    4300018: DoorFrame
+    4300020: Door
+    4300022: Handle_Back
+    4300024: Handle_Front
+    4300026: CTRL_Hole.001
+    4300028: Window
+    4300030: Floor.001
+    4300032: Baseboard.001
+    4300034: Room
+    4300036: Floor
+    4300038: Baseboard
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
