@@ -1,0 +1,12 @@
+Event:
+  Name: My test event
+  Sequence:
+    - Dialog:
+        Text: >
+          This is my first line of dialog, but it 
+          is quite long.
+        Time: 5.0
+    - Dialog:
+        Text: >
+          This is the second line.
+        Time: 2.0
